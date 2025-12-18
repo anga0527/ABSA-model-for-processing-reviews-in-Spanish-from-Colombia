@@ -219,7 +219,7 @@
   {"text":"la app guarda sesiones","label":["seguridad_neutra"]},
   {"text":"solicita numero de celular","label":["seguridad_neutra"]},
   {"text":"usa info pa los pedidos","label":["seguridad_neutra","funcionalidad_neutra"]},
-  {"text":"pide aceptar politica de datos","label":["seguridad_neutra"]}
+  {"text":"pide aceptar politica de datos","label":["seguridad_neutra"]},
   {"text":"la app pide crear cuenta con correo para poder ver los movimientos","label":["seguridad_neutra","funcionalidad_neutra"]},
   {"text":"para usarla toca registrarse y luego se puede revisar el saldo","label":["seguridad_neutra","usabilidad_neutra","funcionalidad_neutra"]},
   {"text":"solicita clave antes de entrar a la app y muestra los pagos","label":["seguridad_neutra","funcionalidad_neutra"]},
@@ -345,6 +345,7 @@
   {"text":"elperfil se edita en ajustes","label":["usabilidad_neutra"]},
   {"text":"losbotones salen en pantalla","label":["usabilidad_neutra"]}
 ]
+
 
 
 
