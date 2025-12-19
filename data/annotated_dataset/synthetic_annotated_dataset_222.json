@@ -388,8 +388,49 @@
   {"text":"pide confirmar identidad para pagar y luego deja ver el recibo","label":["seguridad_neutra","costos_neutra"]},
   {"text":"al entrar valida la cuenta y carga el contenido dela app","label":["seguridad_neutra","rendimiento_neutra"]},
   {"text":"la informacion delusuario se maneja desde ajustes y perfil","label":["seguridad_neutra","usabilidad_neutra"]},
-  {"text":"los datos se usan para mostrar compras hechas desde la cuenta","label":["seguridad_neutra","funcionalidad_neutra"]}
+  {"text":"los datos se usan para mostrar compras hechas desde la cuenta","label":["seguridad_neutra","funcionalidad_neutra"]},
+  
+  {"text":"entro a la app y busco el menu principal pero toca ir a perfil primero y luego volver atras para ver las opciones normales","label":["usabilidad_neutra"]},
+{"text":"cuando abro la pantalla inicial aparece otra seccion distinta y tengo que darle al boton de inoicio par volber al menu principal","label":["usabilidad_neutra"]},
+{"text":"para consultar el historial debo entrar a ajustes y despues regresar xq la app no muestra eso directo","label":["usabilidad_neutra"]},
+{"text":"la opcion de registrar datos esta escondida en el formulario y uno entra varias veces sin saber si ya guardo","label":["usabilidad_neutra"]},
+{"text":"el boton de comprar aparece bien abajo","label":["usabilidad_neutra"]},
+{"text":"entro a nequi y la barra superior cambia de lugar cuando paso a otra seccion y confunde resto","label":["usabilidad_negativa"]},
+{"text":"la pantalla gira sola cuando estoy navegando el perfil y tengo que volver al inicio otra vez","label":["usabilidad_neutra"]},
+{"text":"la app muestra una pantalla blanca al entrar y luego carga el inicio sin avisar nada","label":["usabilidad_neutra"]},
+{"text":"cuando edito datos en el formulario no queda claro si se guardo porque no sale mensaje porfavor alguien me puede decir gracias dioslobendiga","label":["usabilidad_neutra"]},
+{"text":"el icono de ajustes cambia segun la seccion y toca mirar bien para no perderse porque la letra es pequeña tambn","label":["usabilidad_neutra"]},
+{"text":"al navegar entre secciones el menu se esconde y uno piensa que se salio de la app","label":["usabilidad_neutra"]},
+{"text":"wuazap entro al chat y luego a opciones pero regreso y ya no estoy donde estaba si me entiende","label":["usabilidad_neutra"]},
+{"text":"youtube muestra el inicio distinto cada ves y toca volver atras para encontrar lo que buscaba","label":["usabilidad_neutra"]},
+{"text":"las burbugas de los mensajes aparecen mas grandes q antes de la ultima actualisacion gracias","label":["usabilidad_neutra"]},
+{"text":"para crear un perfil nuevo pide datos pero no explica bien en que parte quedo el proceso","label":["usabilidad_neutra"]},
+{"text":"cuando reviso el historial aparece incompleto y tengo que cerrar y volver a entrar","label":["usabilidad_neutra"]},
+{"text":"la seccion de pagos esta en otro lado diferente al menu principal y uno se enreda resto","label":["usabilidad_neutra"]},
+{"text":"entro al feedy me manda a otra pantalla rara antes de llegar al perfil","label":["usabilidad_neutra"]},
+{"text":"tiene varias pantallas seguidas y eso no estba antes de actualizar","label":["usabilidad_neutra"]},
+{"text":"parce el boton de continuar aparece bien abajo yl lugar donde decia inicio ahora es azul q loko","label":["usabilidad_neutra"]},
+{"text":"no e interactuado mucho con la interfaz ent no puedo opinar gracias cuando la pruebe opino gracias","label":["usabilidad_neutra"]},
+{"text":"el menu principal se abre lento y mientras tanto la pantalla queda congelada","label":["usabilidad_neutra"]},
+{"text":"cuando entro a ajustes se devuelve sola al inicio y me toca repetir todo el camino","label":["usabilidad_neutra"]},
+{"text":"mk la letra ahora esta mas pekeña alguien que me diga si tmb l pasa","label":["usabilidad_neutra"]},
+
+{"text":"aora toca darle clic al menu para entrar a pagar y el menu se demora resto entonces pienso que no entro bien","label":["usabilidad_neutra","rendimiento_negativa"]},
+{"text":"con el nuevo boton de pagar que es mas pequeño que antes le voy a dar y me aparece un cobrro estra eso no me gusto si","label":["usabilidad_neutra","costos_negativa"]},
+{"text":"carga la pantalla inicial pero los botones no responden rapido y desespera","label":["usabilidad_neutra","rendimiento_negativa"]},
+{"text":"cuando uso daviplata pide claves varias veces y uno ya no sabe si quedo guardada","label":["usabilidad_neutra","seguridad_neutra"]},
+{"text":"la app cobra sin mostrar bien el resumen y uno se da cuenta despues parce","label":["usabilidad_neutra","costos_negativa"]},
+{"text":"en instagram la app se queda pensando y el menu no sale completo","label":["usabilidad_neutra","rendimiento_negativa"]},
+{"text":"para pagar servicios aparece una pantalla diferente y se pierde la info anterior","label":["usabilidad_neutra","funcionalidad_neutra"]},
+{"text":"la barra se congela mientras cargo datos y no se si cerrar o esperar","label":["usabilidad_neutra","rendimiento_negativa"]},
+{"text":"nequi muestra pantallas sin texto claro y uno duda si ya pago o no","label":["usabilidad_neutra","funcionalidad_neutra"]},
+{"text":"whatsapp se queda en blanco al entrar a ajustes y luego vuelve sola","label":["usabilidad_neutra","rendimiento_negativa"]},
+{"text":"la app pide permisos raros sin explicar bien para que son y eso da desconfianza","label":["usabilidad_neutra","seguridad_neutra"]},
+{"text":"cuando compro sale otra pantalla de cobro que no esperaba y me emberraca","label":["usabilidad_neutra","costos_negativa"]},
+{"text":"el menu se mueve mientras navego y eso hace que uno toque mal","label":["usabilidad_neutra","rendimiento_neutra"]}
+
 ]
+
 
 
 
