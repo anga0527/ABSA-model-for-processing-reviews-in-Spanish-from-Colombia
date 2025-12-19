@@ -343,8 +343,55 @@
   {"text":"lasopciones salen al iniciar","label":["usabilidad_neutra"]},
   {"text":"pa navegar toca tocar iconos","label":["usabilidad_neutra"]},
   {"text":"elperfil se edita en ajustes","label":["usabilidad_neutra"]},
-  {"text":"losbotones salen en pantalla","label":["usabilidad_neutra"]}
+  {"text":"losbotones salen en pantalla","label":["usabilidad_neutra"]},
+  {"text":"la app pide correoyclave para entrar y ver los movimietos pero aveces toca volver a poner la clave otra vez","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"para usar la app toca registrarse con datospersonales y despues despues ya se puede mirar el saldo sin problema","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"la app guarda informacion delusuario y usa esos datos datos para mostrar pagos y compras dentro dela cuenta","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"cuando uno entra pide clave y luego carga lapantalla principal aunque aveces se demora unpoco","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"la app solicita permisosdel celular para funcionar bien y poder mostrar contenido y opciones del menu","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"pide confirmar identidad antes de pagar y despues deja ver el historial de pagos y pagos","label":["seguridad_neutra","funcionalidad_neutra","costos_neutra"]}
+{"text":"los datos delperfil quedan guardados en la cuenta y se usan luego para compras y pagos dentro","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"para iniciar sesion toca poner correo y clave y esperar que cargue laapp completo","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"la app pide aceptar permisos y terminos antes de mostrar elinicio y las opciones principales","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"el acceso ala cuenta se hace con clave y luego se puede revisar saldo y pagos realizados","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"los datos personales se usan para registrar la cuenta y permitir compras dentro dela app","label":["seguridad_neutra","costos_neutra","funcionalidad_neutra"]}
+{"text":"cuando uno entra ala app pide verificacion y luego carga el contenido poco apoco","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"la app guarda sesiones activas y por eso aveces no pide clave al volver aentrar","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"para pagar algo toca confirmar datospersonales y luego aparece el total apagar","label":["seguridad_neutra","costos_neutra"]}
+{"text":"la informacion delusuario queda asociada al perfil y se puede ver desde ajustes","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"pide numero de celular y correo para crear cuenta y despues deja usar las funciones","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"la app solicita permisos y luego muestra el feed aunque al inicio tarda unpoco","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"los datos se guardan para futuras compras y para mostrar el historial del usuario","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"para usarla toca registrarse primero y aceptar permisos antes dever el menu","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"la app pide confirmar identidad antes de dejar pagar y mostrar los movimientos","label":["seguridad_neutra","funcionalidad_neutra","costos_neutra"]}
+{"text":"cuando inicia sesion carga elinicio y luego aparecen las opciones delmenu","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"los datos del perfil se usan para mostrar compras y pagos realizados en la cuenta","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"pide aceptar politica dedatos antes de usar la app y poder navegar normal","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"la app guarda informacion personal y la usa para validar pagos y compras","label":["seguridad_neutra","costos_neutra"]}
+{"text":"para entrar se necesita clave y luego se puede ver el historial de movimientos","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"los datos se sincronizan al entrar y despues aparece el contenido dela app","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"la app pide permisos basicos para funcionar y mostrar bien las opciones","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"el usuario debe registrarse con datos para poder comprar y pagar dentro","label":["seguridad_neutra","costos_neutra","funcionalidad_neutra"]}
+{"text":"al iniciar sesion la app valida la cuenta y luego carga la pantallaprincipal","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"los datos quedan ligados ala cuenta y se usan para mostrar pagos","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"pide clave antes de entrar y despues muestra elmenu y las opciones","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"la app guarda informacion delusuario y muestra historial cuando entra","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"para pagar toca confirmar datos y luego sale el precio final","label":["seguridad_neutra","costos_neutra"]}
+{"text":"los permisos se piden alinicio y luego carga el contenido","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"la informacion personal se guarda para usar la app sin volver aregistrarse","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"el usuario entra con clave y puede ver compras y movimientos realizados","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"al iniciar la app valida los datos y luego muestra el inicio","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"la app pide correo para crear perfil y usar las funciones basicas","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"los datos del perfil se usan para mostrar pagos y controlar compras","label":["seguridad_neutra","costos_neutra"]}
+{"text":"para usar la app toca aceptar permisos y crear cuenta primero","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"la app guarda sesiones y permite entrar rapido sin volver a poner clave","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"los datos personales quedan guardados y se usan para mostrar historial","label":["seguridad_neutra","funcionalidad_neutra"]}
+{"text":"pide confirmar identidad para pagar y luego deja ver el recibo","label":["seguridad_neutra","costos_neutra"]}
+{"text":"al entrar valida la cuenta y carga el contenido dela app","label":["seguridad_neutra","rendimiento_neutra"]}
+{"text":"la informacion delusuario se maneja desde ajustes y perfil","label":["seguridad_neutra","usabilidad_neutra"]}
+{"text":"los datos se usan para mostrar compras hechas desde la cuenta","label":["seguridad_neutra","funcionalidad_neutra"]}
 ]
+
 
 
 
