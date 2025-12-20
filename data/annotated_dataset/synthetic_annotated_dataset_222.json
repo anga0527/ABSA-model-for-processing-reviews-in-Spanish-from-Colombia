@@ -425,7 +425,7 @@
 {"text":"whatsapp se queda en blanco al entrar a ajustes y luego vuelve sola","label":["usabilidad_neutra","rendimiento_negativa"]},
 {"text":"la app pide permisos raros sin explicar bien para que son y eso da desconfianza","label":["usabilidad_neutra","seguridad_neutra"]},
 {"text":"cuando compro sale otra pantalla de cobro que no esperaba y me emberraca","label":["usabilidad_neutra","costos_negativa"]},
-{"text":"el menu se mueve mientras navego y eso hace que uno toque mal","label":["usabilidad_neutra","rendimiento_neutra"]}
+{"text":"el menu se mueve mientras navego y eso hace que uno toque mal","label":["usabilidad_neutra","rendimiento_neutra"]},
 {"text":"buena noche quiciera saber sie normal q el boton de suscribcion aora me salga blanco es q antes era rojo","label":["usabilidad_neutra"]},
  {"text":"deberian usar mas colores y mejor letr a","label":["usabilidad_neutra"]},
  {"text":"los presios son meh sse aprende a usar yaveses carga bien y aveses no","label":["usabilidad_neutra","rendimiento_neutra", "costos_neutra"]},
@@ -504,7 +504,7 @@
 {"text":"mi esposa dice que le va lento en su android pero en el i phone si le va rapido para que lo tengan en cuenta pordavor youtube has algo","label":["rendimiento_neutro"]},
 {"text":"la carga de contenido es regularsita las imagenes se demoran un poco el resto maso menos","label":["rendimiento_neutro"]},
 {"text":"me guyta xke no me gasta tantisimos datos pero si va algo lenta","label":["rendimiento_neutro"]},
-{"text":"me toca estar cerrando y abriendo a rratos para que me carguen los videos pero en general bn","label":["rendimiento_neutro"]}
+{"text":"me toca estar cerrando y abriendo a rratos para que me carguen los videos pero en general bn","label":["rendimiento_neutro"]},
 {"text":"los precios estan muy normales no es caro pero tampoco es regalado","label":["costos_neutra"]},
 {"text":"yo e echo lo de la granja y si me lo an dado es chevre que den cosas gratis aunque algunas cosas son muy caras ayuda soy pobre","label":["costos_neutra"]},
 {"text":"el cobro es normal nada fuera de lo comun","label":["costos_neutra"]},
@@ -551,6 +551,7 @@
 {"text":"la navegacion no es dificil pero hay cosas bloqueadas q dicen pagar y uno sigue bajando porque q mas","label":["usabilidad_neutra","costos_neutra"]},
 {"text":"el precio es x y el rendimiento tambien aveces bien aveces no tanto pero sirve","label":["costos_neutra","rendimiento_neutra"]}
 ]
+
 
 
 
