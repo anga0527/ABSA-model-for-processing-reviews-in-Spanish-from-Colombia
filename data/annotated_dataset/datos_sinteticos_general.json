@@ -22,10 +22,11 @@
   {"text":"no vale la pena hay mejores opciones por ahi mucho mejores","label":["general_negativa"]},
   {"text":"la experiencia fue confusa la app es muy fea y en general todo mal nada satisfactoria en general","label":["general_negativa", "usabilidad_neutra"]},
   {"text":"muy mala app no entiendo porque la recomiendan tanto","label":["general_negativa"]},
-  {"text":"no me genero confianza ni ganas de seguir usando eso donde puedo obtener mas informacion a cerca de las politicas de seguridad","label":["general_negativa"]},
+  {"text":"no me genero confianza ni ganas de seguir usando eso donde puedo obtener mas informacion a cerca de las politicas de seguridad","label":["general_negativa", "usabilidad_negativa"]},
   {"text":"echa con las patas horrible y no funciona nada que asco","label":["general_negativa"]},
   {"text":"no me gusta nada iu mejor papa telegram no use whats app","label":["general_negativa"]},
   {"text":"servicio deplorable siempre esta caido orrible en general mucho q desear","label":["general_negativa", "rendimiento_negativa"]},
   {"text":"muy mala experiencia general no la recomiendo para nada","label":["general_negativa"]},
   {"text":"bbvfa deberia revisar esto porque asi como va no va a ningun lado que que mal servicio","label":["general_negativa"]}
 ]
+
