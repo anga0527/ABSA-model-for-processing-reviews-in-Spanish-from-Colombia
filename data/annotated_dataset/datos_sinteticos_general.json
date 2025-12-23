@@ -41,7 +41,7 @@
   {"text":"alguien me puede decir que puedo esperar de nequi nunca la e usado y tengo espectivas altas","label":["general_neutra"]},
   {"text":"no tengo quejas pero tampoco elogios","label":["general_neutra"]},
   {"text":"la experiencia ha sido mas o menos normal hasta ahora","label":["general_neutra"]},
-  {"text":"es una opcion mas entre muchas nada especial pero vos las podes usar sobretodo si buscas economia en la mercancia saludos desde cali ve","label":["general_neutra", "costos_positva"]},
+  {"text":"es una opcion mas entre muchas nada especial pero vos las podes usar sobretodo si buscas economia en la mercancia saludos desde cali ve","label":["general_neutra", "costos_positiva"]},
   {"text":"los productos son muy normi","label":["general_neutra"]},
   {"text":"hola buenas tardes quisiera saber que tal les parece la app yo la llevo usando poco tiempo saludos y buen dia","label":["general_neutra"]},
   {"text":"no puedo opinar mucho aun sigo probandola","label":["general_neutra"]},
@@ -59,6 +59,7 @@
   {"text":"no tengo mucho que decir funciona normal","label":["general_neutra"]},
   {"text":"ps cumple lo q promete dentrode toddo","label":["general_neutra"]}
 ]
+
 
 
 
