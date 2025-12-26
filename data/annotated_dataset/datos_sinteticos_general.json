@@ -66,7 +66,7 @@
   {"text":"la interfaz muestra muchas cosas al tiempo pieden mostrarlo diferente","labels":["usabilidad_neutra"]},
   {"text":"me gustaria que las sexiones tuvieran colores distintos para no confundirse","labels":["usabilidad_neutra"]},
   {"text":"hola los menus podria cambiarse para usar la app mas rapido gracias","labels":["usabilidad_neutra"]},
-  {"text":"podrian agrandar las letras en algunas pantallas para leer mejor","labels":["usabilidad_neutra"]},
+  {"text":"podrian agrandar las letras en algunas vistas para leer mejor","labels":["usabilidad_neutra"]},
   {"text":"la pantalla principal tiene varios botones","labels":["usabilidad_neutra"]},
   {"text":"seria util cambiar el diseno del menu lateral para que ste arruba como en la ultima actualizscion","labels":["usabilidad_neutra"]},
   {"text":"me gustaria que el boton fuera azul en lugar de morado porque me gusta mas el morado","labels":["usabilidad_neutra"]},
@@ -92,7 +92,7 @@
   {"text":"me gustaria que para pagar hubiera menos pasos porque aveces uno va de rapidez","labels":["usabilidad_neutra"]},
   {"text":"la organizacion del contenido puede cambiarse","labels":["usabilidad_neutra"]},
   {"text":"me gustaria que incluyeran la opcion de historial de movimientos","labels":["funcionalidad_neutra"]},
-  {"text":"la app muestra varias opciones que no uso podrian poner alguna opcion para ajustar incluso meter ia","labels":["usabilidad_neutra", "funcionalida_neutra"]},
+  {"text":"la app muestra varias opciones que no uso podrian poner alguna opcion para ajustar incluso meter ia","labels":["usabilidad_neutra", "funcionalidad_neutra"]},
   {"text":"podrian ajustar el tamaño de los botones son como muy grandes y ocupan mucho espacio en la pantalla","labels":["usabilidad_neutra"]},
   {"text":"me parece que el diseño de la app podria cambiarc","labels":["usabilidad_neutra"]},
   {"text":"el diseño actual se puede reorganizar como en la actualizacion anterios","labels":["usabilidad_neutra"]},
@@ -106,6 +106,7 @@
   {"text":"podrian reorganisar el orden de las secciones segun el uso de cada persona","labels":["usabilidad_neutra"]},
   {"text":"seria bueno cambiar el diseño del menu lateral para que centienda mejor","labels":["usabilidad_neutra"]},
   {"text":"me gustaria que la app deje personalizar ujn poco mas el perfil por ejemplo quiero ponerlo de color rosa y no me deja","labels":["usabilidad_neutra"]},
+
 
 
 
