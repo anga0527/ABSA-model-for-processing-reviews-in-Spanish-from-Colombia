@@ -58,7 +58,6 @@
   {"text":"la verdad es una app mas no se si vaya a usarla mucho de ahora en adelanta","label":["general_neutra"]},
   {"text":"no tengo mucho que decir funciona normal","label":["general_neutra"]},
   {"text":"ps cumple lo q promete dentrode toddo","label":["general_neutra"]},
-
   {"text": "la aplicacion se siente consistente pero a veces tarda en cambiar de pantalla podria optimizar uso de recursos", "labels": ["rendimiento_neutra"]},
   {"text": "notas que el consumo de bateria varia segun las funciones que uso", "labels": ["rendimiento_neutra"]},
   {"text":"podrian cambiar el color del menu principal para que sea mas facil ubicar algunas opciones","labels":["usabilidad_neutra"]},
@@ -106,8 +105,4 @@
   {"text":"podrian reorganisar el orden de las secciones segun el uso de cada persona","labels":["usabilidad_neutra"]},
   {"text":"seria bueno cambiar el diseño del menu lateral para que centienda mejor","labels":["usabilidad_neutra"]},
   {"text":"me gustaria que la app deje personalizar ujn poco mas el perfil por ejemplo quiero ponerlo de color rosa y no me deja","labels":["usabilidad_neutra"]},
-
-
-
-
-
+]
