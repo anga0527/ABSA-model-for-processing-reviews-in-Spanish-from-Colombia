@@ -191,7 +191,6 @@
 {"text":"todo normal con la app y la bateria no se ha muerto","label":["rendimiento_neutra"]},
 {"text":"no he tenido inconvenientes y el consumo es regular","label":["rendimiento_neutra"]},
 {"text":"puedo usar la aplicacion el tiempo que yo esperaba y aguanta casi la bateria","label":["rendimiento_neutra"]},
-
 {"text":"me llegan llamadas pidiendo codigo y no me fio","label":["seguridad_neutra"]},
 {"text":"quisiera bloqueo extra cuando detecten intento de acceso sospechoso","label":["seguridad_neutra"]},
 {"text":"no quiero que compartan mis datos con otras empresas","label":["seguridad_neutra"]},
@@ -201,7 +200,6 @@
 {"text":"quisiera aviso si intentan ingresar desde otro pais ahi","label":["seguridad_neutra"]},
 {"text":"me gustaria que agreguen en las politicas de privacidad que si hay suplantacion alguien te asesore","label":["seguridad_neutra"]},
 {"text":"quisiera que avisaran si cambian mi informacion de perfil","label":["seguridad_neutra"]},
-
 {"text":"me gustaria opciones para decidir que me sale en los videos y que no","label":["seguridad_neutra"]},
 {"text":"no estoy seguro si venden mis datos a terceros","label":["seguridad_neutra"]},
 {"text":"seria util tener historial de accesos recientes a la cuenta para saber si alguien mas entra a la cuenta que no sea yo","label":["funcionalidad_neutra", "seguridad_neutra"]},
@@ -239,8 +237,14 @@
 {"text":"la empresa comparte datos con anunciantes","label":["seguridad_neutra"]},
 {"text":"quisiera saber si guardan mi ubicacion cuando activo sus permisos","label":["seguridad_neutra"]},
 {"text":"no se si bloquear a alguien pueede seguirme escribiendo","label":["seguridad_neutra"]},
-{"text":"me gustaria que revisaran intentos fallidos de inicio sesion","label":["seguridad_neutra"]}
+{"text":"me gustaria que revisaran intentos fallidos de inicio sesion","label":["seguridad_neutra"]},
+{"text":"quisiera que se puediera crear cuenta con tarjeta de identidad porque soy menor de edad y necesito entrar","label":["funcionalidad_neutra"]},
+{"text":"los topes podrian ser mas amplios porfa","label":["costos_neutra"]},
+{"text":"deberian habilitar la opcion de ingresar con tarjeta de identidad seria muy util","label":["funcionalidad_neutra"]},
+{"text":"seria buena idea que trabajaran mas en cuanto a dejar pagar con NFC","label":["funcionalidad_neutra"]},
+{"text":"los de nequi deberian prestar mas plata","label":["costos_neutra"]},
 ]
+
 
 
 
